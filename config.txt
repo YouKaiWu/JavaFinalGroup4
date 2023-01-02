@@ -1,0 +1,12 @@
+used_last_id: 10
+show_sort_field: id
+show_weight: true
+show_sort_order: asc
+show_name: true
+show_price: true
+show_catalog: true
+show_count: true
+show_brand: true
+show_defalt_perpage: 5
+verify_string: 12345
+shor_work: true

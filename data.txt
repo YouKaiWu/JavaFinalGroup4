@@ -1,0 +1,10 @@
+0007 Apple Marin Food 1024 666 100000
+0001 Orange Stxxx Food 500 500 50000
+0005 Grean_tea Mr.tea Drink 220 765 243000
+0008 Red_tea Mr.tea Drink 562 772 165200
+0004 Milk_tea Mr.tea Drink 426 765 132000
+0002 English Reader Book 446 1050 600000
+0009 Chips Lay's Food 600 540 168400 
+0010 Cola Coca-Cola Drink 999 2300 465200
+0006 noodles Weili Food 500 900 200000
+0003 Chocolate Ferrero Food 400 500 600000
